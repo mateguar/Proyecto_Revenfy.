@@ -37,16 +37,16 @@ Este documento describe los requisitos funcionales, no funcionales y técnicos d
 
 Su propósito es definir de manera clara el comportamiento esperado de la aplicación, sus características principales, restricciones técnicas y necesidades de interfaz para su desarrollo e implementación.
 
-Revenfy será una aplicación móvil enfocada en la compra y venta de ropa de segunda mano, permitiendo que los usuarios publiquen, busquen y gestionen productos de forma sencilla y segura dentro de una plataforma digital.
+Revenfy será una aplicación móvil enfocada en la compra y venta de productos de segunda mano, permitiendo que los usuarios publiquen, busquen y gestionen productos de forma sencilla y segura dentro de una plataforma digital.
 
 ---
 
 ### 1.1 Alcance del producto
 
-Revenfy es una plataforma móvil diseñada para conectar personas interesadas en vender, comprar o intercambiar ropa de segunda mano.
+Revenfy es una plataforma móvil diseñada para conectar personas interesadas en vender, comprar o intercambiar productos de segunda mano.
 
 **Objetivos**
-- Facilitar la publicación de prendas usadas.
+- Facilitar la publicación de productos usados.
 - Promover la economía circular mediante la reutilización de ropa.
 - Crear una comunidad digital enfocada en moda sostenible.
 - Ofrecer una experiencia sencilla de compra y venta entre usuarios.
@@ -61,11 +61,11 @@ Revenfy es una plataforma móvil diseñada para conectar personas interesadas en
 
 ### 1.2 Valor del producto
 
-Revenfy aporta valor al usuario al ofrecer un espacio digital cómodo y accesible para comercializar ropa usada.
+Revenfy aporta valor al usuario al ofrecer un espacio digital cómodo y accesible para comercializar productos usados.
 
 Los usuarios podrán:
-- Vender prendas que ya no usan.
-- Encontrar ropa a precios accesibles.
+- Vender productos que ya no usan.
+- Encontrar productos a precios accesibles.
 - Descubrir artículos únicos.
 - Participar en consumo responsable y sostenible.
 
@@ -74,10 +74,9 @@ Los usuarios podrán:
 ### 1.3 Público objetivo
 
 - Jóvenes entre 16 y 35 años.
-- Personas interesadas en moda sostenible.
-- Compradores de ropa de segunda mano.
-- Vendedores independientes de prendas usadas.
-- Personas que buscan monetizar ropa que ya no utilizan.
+- Compradores de productos de segunda mano.
+- Vendedores independientes de productos usados.
+- Personas que buscan monetizar productos que ya no utilizan.
 
 ---
 
@@ -86,9 +85,9 @@ Los usuarios podrán:
 El usuario podrá:
 - Registrarse en la aplicación.
 - Iniciar sesión.
-- Crear publicaciones de ropa usada.
-- Subir fotografías de prendas.
-- Agregar descripción, talla, categoría y precio.
+- Crear publicaciones de Productos usados.
+- Subir fotografías de productos.
+- Agregar descripción, estado, categoría y precio.
 - Buscar productos publicados.
 - Visualizar perfiles.
 - Contactar otros usuarios.
@@ -102,7 +101,7 @@ El sistema contará con:
 - Autenticación de usuarios.
 - Perfil personal.
 - Gestión de publicaciones.
-- Catálogo de prendas.
+- Catálogo de productos.
 - Motor de búsqueda.
 - Carga de imágenes.
 - Visualización detallada del producto.
