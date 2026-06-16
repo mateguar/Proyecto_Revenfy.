@@ -10,8 +10,6 @@
 - Anamaria Forigua Murcia  
 - Luis Mateo Beltrán Repizo  
 - Jhon Alex Beltrán Herrera  
-- Brayan Santiago Suarez Piraquive  
-
 ---
 
 ## Tabla de Contenido
