@@ -12,7 +12,6 @@ Revender + fy (entorno digital) = **Revenfy**
 
 - Luis Mateo Beltrán Repizo
 - Jhon Alex Beltrán Herrara
-- Brayan Santiago Suarez Piraquive
 - Anamaria Forigua Murcia
 
 ---
